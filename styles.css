@@ -26,6 +26,7 @@ p {
   margin-top: 0px;
 }
 .content-wrapper {
+  margin-top: -10px;
   min-height: 509px;
   width: 920px;
   background-color: white;
