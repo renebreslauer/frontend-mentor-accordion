@@ -71,6 +71,7 @@ p {
 .active {
   padding: 0px;
 }
+
 .active img {
   transform: rotate(180deg);
 }
