@@ -130,6 +130,7 @@ h2:hover {
   .content-wrapper {
     grid-template-columns: 100%;
     margin: 20px;
+    margin-top: 150px;
   }
 
   .text {
